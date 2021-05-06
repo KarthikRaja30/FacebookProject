@@ -41,6 +41,11 @@ public static void main(String[] args) throws IOException   {
 				long l = (long)d;
 				String of = String.valueOf(l);
 				System.out.println(of);
+				System.out.println(of);
+				System.out.println(of);
+				System.out.println(of);
+				System.out.println(of);
+				System.out.println(of);
 			}
 		}
 		
